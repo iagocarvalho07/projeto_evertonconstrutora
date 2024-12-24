@@ -42,7 +42,7 @@ class ServicesSection extends StatelessWidget {
     return Container(
       decoration: const BoxDecoration(
         image: DecorationImage(
-          image: AssetImage('lib/assets/images/imagemfundoServico.jpg'),
+          image: AssetImage('assets/images/imagemfundoServico.jpg'),
           fit: BoxFit.cover,
         ),
       ),

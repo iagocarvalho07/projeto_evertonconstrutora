@@ -205,8 +205,8 @@ flutter:
   fonts:
     - family: Borel
       fonts:
-        - asset: lib\assets\fonts\Borel\Borel-Regular.ttf
+        - asset: assets\fonts\Borel\Borel-Regular.ttf
     - family: Quicksand
       fonts:
-        - asset: lib\assets\fonts\Quicksand\Quicksand-VariableFont_wght.ttf
-        - asset: lib\assets\fonts\Quicksand\static\Quicksand-Bold.ttf
+        - asset: assets\fonts\Quicksand\Quicksand-VariableFont_wght.ttf
+        - asset: assets\fonts\Quicksand\static\Quicksand-Bold.ttf

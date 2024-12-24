@@ -87761,7 +87761,7 @@ s.d=!s.d},
 $S:0}
 A.at4.prototype={
 $1(a){var s=null,r=this.a
-return A.a47(s,B.A,A.aG0(new A.eS(B.Aa,s,s,A.cQ(s,A.eE(A.b([A.lm(s,B.IA,s,new A.asZ(a),s,s),new A.h0("SOBRE N\xd3S",new A.at_(r,a),!1,s),B.bH,new A.h0("SERVI\xc7OS",new A.at0(r,a),!1,s),B.bH,new A.h0("CLIENTES",new A.at1(r,a),!1,s),B.bH,new A.h0("LOCALIZA\xc7\xc3O",new A.at2(r,a),!1,s),B.bH,new A.h0("OR\xc7AMENTO GRATUITO",new A.at3(r,a),!0,s),B.RY,A.k6("assets/images/logo.png",B.A7,B.f5,100,100)],t.p),B.cw,B.U,B.P),B.q,s,s,B.B7,s,s,s,B.b6,s,s,s),s),B.Od),s,10,s,s,s,s)},
+return A.a47(s,B.A,A.aG0(new A.eS(B.Aa,s,s,A.cQ(s,A.eE(A.b([A.lm(s,B.IA,s,new A.asZ(a),s,s),new A.h0("SOBRE N\xd3S",new A.at_(r,a),!1,s),B.bH,new A.h0("SERVI\xc7OS",new A.at0(r,a),!1,s),B.bH,new A.h0("CLIENTES",new A.at1(r,a),!1,s),B.bH,new A.h0("LOCALIZA\xc7\xc3O",new A.at2(r,a),!1,s),B.bH,new A.h0("OR\xc7AMENTO GRATUITO",new A.at3(r,a),!0,s),B.RY,A.k6("assets/images/logo.png",B.A7,B.f5,100,100)],t.p),B.cw,B.U,B.P),B.q,s,s,B.B6,s,s,s,B.b6,s,s,s),s),B.Od),s,10,s,s,s,s)},
 $S:121}
 A.asZ.prototype={
 $0(){A.er(this.a,!1).d5()},
@@ -87897,7 +87897,7 @@ $0(){this.a.f=!1},
 $S:0}
 A.Q_.prototype={
 H(a){var s=null,r=t.s
-return A.cQ(s,new A.lv(new A.aiA(A.b(["Projetos de funda\xe7\xe3o, estrutural, Arquitet\xf4nico, instala\xe7\xe3o el\xe9trica e hidrossanit\xe1ria","Topografia","Funda\xe7\xf5es","Infraestrutura","Terraplanagem","Drenagem","Acabamentos e Revestimentos","Demoli\xe7\xe3o","Reforma","Steel Frame","Drywall"],r),A.b(["assets/images/imagem2.jpeg","assets/images/imagem3.jpeg","assets/images/imagem4.jpeg","assets/images/imagem28.jpeg","assets/images/imagem34.jpeg","assets/images/imagem40.jpeg","assets/images/imagem43.jpeg","assets/images/imagem48.jpeg","assets/images/imagem54.jpeg","assets/images/imagem62.jpeg","assets/images/imagem64.jpeg","assets/images/imagem66.jpg","assets/images/imagem65.jpeg","assets/images/imagem89.jpg","assets/images/imagem91.jpg"],r)),s),B.q,s,s,B.B6,s,s,s,B.HH,s,s,s)}}
+return A.cQ(s,new A.lv(new A.aiA(A.b(["Projetos de funda\xe7\xe3o, estrutural, Arquitet\xf4nico, instala\xe7\xe3o el\xe9trica e hidrossanit\xe1ria","Topografia","Funda\xe7\xf5es","Infraestrutura","Terraplanagem","Drenagem","Acabamentos e Revestimentos","Demoli\xe7\xe3o","Reforma","Steel Frame","Drywall"],r),A.b(["assets/images/imagem2.jpeg","assets/images/imagem3.jpeg","assets/images/imagem4.jpeg","assets/images/imagem28.jpeg","assets/images/imagem34.jpeg","assets/images/imagem40.jpeg","assets/images/imagem43.jpeg","assets/images/imagem48.jpeg","assets/images/imagem54.jpeg","assets/images/imagem62.jpeg","assets/images/imagem64.jpeg","assets/images/imagem66.jpg","assets/images/imagem65.jpeg","assets/images/imagem89.jpg","assets/images/imagem91.jpg"],r)),s),B.q,s,s,B.B7,s,s,s,B.HH,s,s,s)}}
 A.aiA.prototype={
 $2(a,b){var s,r=null,q=this.a,p=this.b,o=t.p,n=A.a2(p)
 if(b.b<1000){q=A.aEa(new A.aiu(q),11,B.jW,!0)
@@ -92451,13 +92451,6 @@ B.B3=new A.a7(0,1/0,48,1/0)
 B.B4=new A.a7(96,96,96,96)
 B.B5=new A.a7(0,1/0,56,56)
 B.io=new A.a7(1/0,1/0,1/0,1/0)
-B.Af=new A.ti("lib/assets/images/imagemfundoServico.jpg",null,null)
-B.bw=new A.tm(2,"cover")
-B.bp=new A.up(3,"noRepeat")
-B.bd=new A.pC(2,"medium")
-B.GT=new A.pp(B.Af,B.bw)
-B.af=new A.JS(0,"rectangle")
-B.B6=new A.cP(null,B.GT,null,null,null,null,B.af)
 B.j=new A.i(4294967295)
 B.xU=new A.aK(200,200)
 B.AO=new A.bO(B.xU,B.x,B.xU,B.x)
@@ -92465,7 +92458,14 @@ B.m9=new A.i(1107296256)
 B.hc=new A.j(0,4)
 B.Bh=new A.bg(0,B.C,B.m9,B.hc,10)
 B.nS=A.b(s([B.Bh]),t.V)
-B.B7=new A.cP(B.j,null,null,B.AO,B.nS,null,B.af)
+B.af=new A.JS(0,"rectangle")
+B.B6=new A.cP(B.j,null,null,B.AO,B.nS,null,B.af)
+B.Af=new A.ti("assets/images/imagemfundoServico.jpg",null,null)
+B.bw=new A.tm(2,"cover")
+B.bp=new A.up(3,"noRepeat")
+B.bd=new A.pC(2,"medium")
+B.GT=new A.pp(B.Af,B.bw)
+B.B7=new A.cP(null,B.GT,null,null,null,null,B.af)
 B.Dg=new A.i(2731396557)
 B.PA=new A.aK(30,30)
 B.AP=new A.bO(B.x,B.x,B.x,B.PA)
