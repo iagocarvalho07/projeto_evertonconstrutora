@@ -152,7 +152,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   ],
                 ),
                 child: SvgPicture.asset(
-                  'lib/assets/logos/instagram.svg',
+                  'assets/logos/instagram.svg',
                   color: const Color(0xFFE4405F),
                   fit: BoxFit.cover,
                 ),

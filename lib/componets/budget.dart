@@ -71,7 +71,7 @@ class _OrcamentoState extends State<Orcamento> {
         // Imagem de fundo
         Positioned.fill(
           child: Image.asset(
-            'lib/assets/images/empresaes.png',
+            'assets/images/empresaes.png',
             fit: BoxFit.cover,
           ),
         ),

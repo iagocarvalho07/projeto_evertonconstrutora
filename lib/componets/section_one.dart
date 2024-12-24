@@ -9,7 +9,7 @@ class SectionOne extends StatefulWidget {
 }
 
 class _SectionOneState extends State<SectionOne> {
-  final String _videoPath = 'lib/assets/videos/VideoDeInicio.mp4';
+  final String _videoPath = 'assets/videos/VideoDeInicio.mp4';
   late VideoPlayerController _controller;
   bool _isAutoplayFailed = false;
 

@@ -22,21 +22,21 @@ class ServicesSection extends StatelessWidget {
     ];
 
     final List<String> imageUrls = [
-      'lib/assets/images/imagem2.jpeg',
-      'lib/assets/images/imagem3.jpeg',
-      'lib/assets/images/imagem4.jpeg',
-      'lib/assets/images/imagem28.jpeg',
-      'lib/assets/images/imagem34.jpeg',
-      'lib/assets/images/imagem40.jpeg',
-      'lib/assets/images/imagem43.jpeg',
-      'lib/assets/images/imagem48.jpeg',
-      'lib/assets/images/imagem54.jpeg',
-      'lib/assets/images/imagem62.jpeg',
-      'lib/assets/images/imagem64.jpeg',
-      'lib/assets/images/imagem66.jpg',
-      'lib/assets/images/imagem65.jpeg',
-      'lib/assets/images/imagem89.jpg',
-      'lib/assets/images/imagem91.jpg',
+      'assets/images/imagem2.jpeg',
+      'assets/images/imagem3.jpeg',
+      'assets/images/imagem4.jpeg',
+      'assets/images/imagem28.jpeg',
+      'assets/images/imagem34.jpeg',
+      'assets/images/imagem40.jpeg',
+      'assets/images/imagem43.jpeg',
+      'assets/images/imagem48.jpeg',
+      'assets/images/imagem54.jpeg',
+      'assets/images/imagem62.jpeg',
+      'assets/images/imagem64.jpeg',
+      'assets/images/imagem66.jpg',
+      'assets/images/imagem65.jpeg',
+      'assets/images/imagem89.jpg',
+      'assets/images/imagem91.jpg',
     ];
 
     return Container(
